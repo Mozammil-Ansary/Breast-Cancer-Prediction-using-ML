@@ -81,7 +81,7 @@ The dataset contains various medical attributes related to breast cancer diagnos
 
 -6️⃣ Prediction System
 
-    - Created a prediction system capable of classifying tumors based on input medical parameters.
+   - Created a prediction system capable of classifying tumors based on input medical parameters.
 
 **📊 Project Features**
 
